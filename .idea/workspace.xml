@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7842754e-e379-4a2a-af5b-be5444628ce2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/banco-api/Dockerfile" afterDir="false" />
+    <list default="true" id="7842754e-e379-4a2a-af5b-be5444628ce2" name="Changes" comment="Feature &quot;Nuevas Funcionalidades&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/banco-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/banco-api/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,9 +77,22 @@
       <updated>1787676917979</updated>
       <workItem from="1787676919917" duration="6000" />
     </task>
+    <task id="LOCAL-00001" summary="Feature &quot;Nuevas Funcionalidades&quot;">
+      <option name="closed" value="true" />
+      <created>1787763470869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1787763470869</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feature &quot;Nuevas Funcionalidades&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature &quot;Nuevas Funcionalidades&quot;" />
   </component>
 </project>
